@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '4+rv)w88yw5os@jr$7i38*ei2s+n2v*6gd4xx$y@4%xv3p+h8e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shibly10.pythonanywhere.com']
 
 
 # Application definition
